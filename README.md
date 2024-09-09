@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently working on a weather forecast application
+- 🔭 Currently working on a calculator application
 - 🌱 Learning Python, SQL and JavaScript
 - 📫 Reach me: brittpuidet@gmail.com
 
